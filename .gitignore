@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 大文件，绝对不入库 (你的要求)
+*.pkl
+*.zip
+malware_samples/
+dataset_*.csv
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
